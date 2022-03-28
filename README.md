@@ -3,9 +3,10 @@
 ##
 
 <div align="center" style="display: inline_block">
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>       
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"/>   
+    <img align="center" height="45" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"> 
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>    
     <img align="center"  height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>   
